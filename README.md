@@ -9,5 +9,7 @@
 [Cereal Sugars and Rating by Name and Manufacturer](https://public.tableau.com/app/profile/nicolette.sorensen/viz/CerealSugarsandRating/Sheet1?publish=yes)
 
 <ins>Sources</ins>
+https://www.kaggle.com/datasets/crawford/80-cereals
+https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us?resource=download
 
 Made by - Nicolette Sorensen, Leo Wheeler, Kimarlee Tran, Noah Stevenson
