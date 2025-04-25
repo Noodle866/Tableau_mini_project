@@ -10,7 +10,10 @@
 
 <ins>Sources</ins>
 
+Cereal Dataset
 https://www.kaggle.com/datasets/crawford/80-cereals
+
+Netflix Dataset
 https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us?resource=download
 
 Made by - Nicolette Sorensen, Leo Wheeler, Kimarlee Tran, Noah Stevenson
