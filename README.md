@@ -1,6 +1,6 @@
-# Tableau_mini_project
+# Cereals & Movies
 
-# Link to Tableau below
+# Link to Tableaus below
 
 [Netflix and Cereal](https://public.tableau.com/app/profile/leo.wheeler/viz/netflix-and-cereal/Story1?publish=yes)
 
